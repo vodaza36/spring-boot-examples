@@ -13,5 +13,6 @@
 
 	<modules>
 		<module>baeldung-test</module>
+        <module>baeldung-cucumber</module>
 	</modules>
 </project>
